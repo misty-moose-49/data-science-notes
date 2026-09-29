@@ -53,3 +53,5 @@ namespace SmartSQL.Framework.SqliteModel
         public DateTime ChangeTime { get; set; }
     }
 }
+
+// 393742
